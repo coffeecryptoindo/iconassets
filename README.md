@@ -1,5 +1,5 @@
 # Iconassets
-Icon repo for AlphaWallet UI improvement.
+Icon repo for CFEE WALLET UI improvement.
 
 Acts as a repo for holding icons for contracts not covered by our existing sources, and is implemented on both platforms.
 
@@ -18,16 +18,16 @@ There is no chain restriction because there should never be an address collision
 
 The checking address should be in this format:
 
-https://raw.githubusercontent.com/alphawallet/iconassets/master/YOUR_TOKEN_ADDRESS_HERE/logo.png
+https://raw.githubusercontent.com/coffeecryptoindo/iconassets/master/YOUR_TOKEN_ADDRESS_HERE/logo.png
 
 Note that the address needs to be checksummed eg:
 
-https://raw.githubusercontent.com/alphawallet/iconassets/master/0xe52eCd3d16E7b194ad16a8C338b1805fE3F66644/logo.png
+https://raw.githubusercontent.com/coffeecryptoindo/iconassets/master/0x1B7835b3575548f6b41B274D7c38CB5b507500f9/logo.png
 
 
 # How to add new assets
 
-1. clone the repo ```> git clone https://github.com/AlphaWallet/iconassets.git```
+1. clone the repo ```> git clone https://github.com/coffeecryptoindo/iconassets.git```
 2. add a directory with the name of your address; checksummed eg: BUSD 0xe9e7cea3dedca5984780bafc599bd69add087d56 
    to find checksum address enter the address into Etherscan: https://etherscan.io/address/0xe9e7cea3dedca5984780bafc599bd69add087d56 then click on the 'copy address to clipboard' icon at the top, right of the displayed address:
    
